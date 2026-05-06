@@ -1,5 +1,5 @@
 import fs from "fs/promises";
-import { instructions as rawInstructions, avatar3Prompt } from "../constants/prompt.js";
+import { instructions as rawInstructions } from "../constants/prompt.js";
 
 const knowledgeBase = await fs.readFile(
   new URL("../data/knowledgebase.txt", import.meta.url),
@@ -11,7 +11,7 @@ const alfalahKnowledgeBase = await fs.readFile(
   new URL("../data/alfalah_knowledge_base.json", import.meta.url),
   "utf-8",
 );
-const avatar3Instructions = `${avatar3Prompt}\n\n## KNOWLEDGE BASE\n${alfalahKnowledgeBase}`;
+const avatar3Instructions = `${instructions}\n\n## KNOWLEDGE BASE\n${alfalahKnowledgeBase}`;
 
 const BEHAVIOR_RULES = `
 
