@@ -1,0 +1,1415 @@
+{
+  "word_document": {
+    "sections": [
+      {
+        "heading": "Introduction",
+        "content": [
+          "Q: Can you tell about yourself ?\nHi I’m Bank Alfalah Partner your AI-powered banking assistant on WhatsApp. I help you manage your banking quickly, simply, and anytime you need.",
+          "Q: What do you do?\nI help you check balances, transfer money, pay bills, and get banking information right inside WhatsApp, just like chatting with a friend.",
+          "Q: How are you different from regular banking?\nI make banking as simple as sending a message no apps, no queues, no waiting.",
+          "Q: How can I use you?\nJust save Bank Alfalah’s WhatsApp number, send “Hi,” and follow the prompts. I’ll guide you step by step.",
+          "Q: Do I need to download an app?\nNo, I work entirely on WhatsApp no downloads needed.",
+          "Q: Are you available all the time?\nYes, I’m available 24/7 whenever you need me.",
+          "Q: What can I do with you?\nYou can check your balance, view transactions, transfer funds, pay bills, do mobile top-ups, and explore banking products all in one place.",
+          "Q: Can you help me transfer money?\nYes, you can transfer money to any bank or within your own accounts instantly.",
+          "Q: Can I pay my bills through you?\nAbsolutely utility bills and mobile top-ups can be done in seconds.",
+          "Q: Can I get my statements or documents?\nYes, you can request your account statements and tax certificates anytime.",
+          "Q: Why should I use you?\nBecause I save your time. I give instant responses and let you complete banking tasks in seconds no waiting, no hassle.",
+          "Q: What makes you easy to use?\nI understand natural language, guide you step by step, and even support English and Roman Urdu.",
+          "Q: What does “bank in your chat” mean?\nIt means everything you need from your bank is available in a simple chat right where you already are.",
+          "Q: Is it safe to use you?\nYes, I’m designed with secure and encrypted communication to keep your information protected.",
+          "Q: Will my data be secure?\nAbsolutely. Your information is handled with strict security protocols and authentication.",
+          "Q: Who is this for?\nAnyone who wants quick, simple banking especially if you prefer using WhatsApp over apps or visiting branches.",
+          "Q: Why should I trust you?\nBecause I’m built by Bank Alfalah to make your life easier fast, reliable, and always here when you need me.",
+          "Q: What’s your goal?\nTo make banking effortless so you can focus on what matters most."
+        ]
+      }
+    ],
+    "tables": []
+  },
+  "screenshots": [
+    {
+      "section": "Personal",
+      "product_type": [
+        {
+          "name": "Conventional account",
+          "description": "A Shariah compliant account gives you the ease of conducting unlimited transactions, anywhere in Pakistan."
+        },
+        {
+          "name": "Islamic account",
+          "description": "A Shariah compliant account allows individuals and businesses to deposit and withdraw their funds round the clock."
+        }
+      ],
+      "product_name": [
+        {
+          "name": "Asaan account",
+          "time_to_open": "4-5 minutes"
+        },
+        {
+          "name": "Regular account",
+          "time_to_open": "8-10 minutes",
+          "requirements": [
+            "Live photo",
+            "Digital CNIC Copy",
+            "Signatures",
+            "Proof of income"
+          ],
+          "limits": {
+            "transactions": "No Limits"
+          }
+        },
+        {
+          "name": "Roshan digital account",
+          "time_to_open": "5-10 minutes"
+        }
+      ],
+      "description": "Enjoy financial freedom with Pakistan's best digital banking experience. Save and grow your wealth through deposits, mutual funds, stocks and government securities. Finance your dream home, car, business or agricultural needs with ease. Access our award-winning Alfa app, country's largest digital network of 24/7 CDMs, ATMs and extensive payment acceptance points. Choice of Islamic or conventional banking designed around you. Beyond banking, unlock lifestyle privileges; enjoy exclusive dining discounts, global lounge accesses with all international cards' schemes, including American Express exclusively. Bank"
+    },
+    {
+      "section": "Personal",
+      "description": "Enjoy financial freedom with Pakistan's best digital banking experience. Save and grow your wealth through deposits, mutual funds, stocks and government securities. Finance your dream home, car, business or agricultural needs with ease. Access our award-winning Alfa app, country's largest digital network of 24/7 CDMs, ATMs and extensive payment acceptance points. Choice of Islamic or conventional banking designed around you. Beyond banking, unlock lifestyle privileges; enjoy exclusive dining discounts, global lounge accesses with all international cards' schemes, including American Express exclusively. Bank Alfalah is where ambition finds direction and your future finds the way forward.",
+      "benefits": [
+        "Enjoy financial freedom with Pakistan's best digital banking experience",
+        "Save and grow your wealth through deposits, mutual funds, stocks and government securities",
+        "Finance your dream home, car, business or agricultural needs with ease",
+        "Access our award-winning Alfa app, country's largest digital network of 24/7 CDMs, ATMs and extensive payment acceptance points",
+        "Choice of Islamic or conventional banking designed around you",
+        "Unlock lifestyle privileges; enjoy exclusive dining discounts, global lounge accesses with all international cards' schemes, including American Express exclusively",
+        "Bank Alfalah is where ambition finds direction and your future finds the way forward"
+      ],
+      "products": [
+        {
+          "product_name": "Conventional account",
+          "product_type": "account",
+          "description": "Conventional account gives you the ease of conducting unlimited transactions, anywhere in Pakistan."
+        },
+        {
+          "product_name": "Islamic account",
+          "product_type": "account",
+          "description": "A Shariah compliant account allows individuals and businesses to deposit and withdraw their funds round the clock."
+        },
+        {
+          "product_name": "Asaan account",
+          "product_type": "account",
+          "time_to_open": "4-5 minutes"
+        },
+        {
+          "product_name": "Regular account",
+          "product_type": "account",
+          "time_to_open": "8-10 minutes",
+          "requirements": [
+            "Live photo",
+            "Digital CNIC Copy",
+            "Proof of income",
+            "Signatures"
+          ]
+        },
+        {
+          "product_name": "Roshan digital account",
+          "product_type": "account",
+          "time_to_open": "5-10 minutes"
+        }
+      ]
+    },
+    {
+      "section": "Personal",
+      "product_name": [
+        "Accounts, Alfa & Debit Cards",
+        "Credit Cards",
+        "Personal Loan",
+        "Car"
+      ],
+      "description": [
+        "Break free from all financial boundaries, get exclusive American",
+        "Need extra funds quickly?",
+        "Book your dream car on Buy-Now, Pay Later facility."
+      ]
+    },
+    {
+      "section": "Personal",
+      "product_name": [
+        "Accounts, Alfa & Debit Cards",
+        "Credit Cards",
+        "Personal Loan",
+        "Car Finance"
+      ],
+      "description": [
+        "Open an account to unlock Pakistan's leading digital banking experience and exclusive features of Alfa and Debit Cards",
+        "Break free from all financial boundaries, get exclusive American Express Card & enjoy the highest discounts and the best deals.",
+        "Need extra funds quickly?",
+        "Book your dream car on Buy-Now, Pay-Later facility."
+      ]
+    },
+    {
+      "section": "Personal",
+      "product_name": [
+        "Home Finance",
+        "Wealth Management",
+        "Alfa Mall",
+        "Roshan Digital Account"
+      ],
+      "description": [
+        "Get your dream home on Buy-Now, Pay-Later facility.",
+        "Invest in funds, securities, T-Bills & Sukuk directly linked to your account and see all your investments in one place.",
+        "Award winning E-commerce marketplace with Buy-Now, Pay-Later facility.",
+        "Overseas Pakistanis, now open FCY or PKR account in Pakistan, earn significant returns & consume your funds on your loved ones in..."
+      ]
+    },
+    {
+      "section": "Personal",
+      "product_name": "Alfa App",
+      "product_type": "Digital Banking Lifestyle App",
+      "description": "Your all in one digital banking lifestyle app. Make digital transactions, investments, or apply for cards anytime, anywhere. With instant financing and secure access to a full suite of services, Alfa puts complete banking convenience in your hands.",
+      "features": [
+        "Invest digitally in mutual funds and term deposits with"
+      ]
+    },
+    {
+      "section": "Personal",
+      "product_name": "Bank Alfalah",
+      "description": "your nands.",
+      "features": [
+        "Invest digitally in mutual funds and term deposits with just a few taps.",
+        "Apply instantly for debit and credit cards without visiting a branch.",
+        "Get real-time financing solutions for quick and convenient access to funds.",
+        "Manage all your banking needs (Instant money transfers via RAAST & bill payments to 4,000+ billers) in one app, built for simplicity and control."
+      ]
+    },
+    {
+      "section": "Personal",
+      "features": [
+        "Get real-time financing solutions for quick and convenient access to funds.",
+        "Manage all your banking needs (Instant money transfers via RAAST & bill payments to 4,000+ billers) in one app, built for simplicity and control."
+      ]
+    },
+    {
+      "section": "Personal",
+      "product_name": "Cards Deals",
+      "description": "Experience the highest discounts on top destinations, trending brands and lifestyle favorites. Get access to exclusive savings at the places everyone's talking about. Your next favorite deal is just a click away!"
+    },
+    {
+      "section": "Personal",
+      "terms_and_conditions": [
+        "Terms and Conditions"
+      ],
+      "contact_info": {
+        "Head Office": "B.A. Building, I.I. Chundrigar Road, Karachi-74000, Pakistan",
+        "Email": "contactus@bankalfalah.com",
+        "Phone": "+92 (21) 111 225 111"
+      }
+    },
+    {
+      "section": "Personal",
+      "product_name": "Accounts, Alfa & Debit Cards",
+      "product_type": [
+        "current accounts",
+        "term deposits",
+        "foreign currency",
+        "structured savings products"
+      ],
+      "description": "Our accounts suite has been designed keeping the diverse needs of our customers. From current accounts, term deposits, foreign currency to structured savings products, choose the option that best suits your needs and start enjoying your daily banking services through our vast branch network and digital banking solutions.",
+      "features": [
+        "vast branch network",
+        "digital banking solutions"
+      ]
+    },
+    {
+      "section": "Personal",
+      "product_name": [
+        "Current Accounts",
+        "Savings Accounts",
+        "Fixed Deposit Account",
+        "ALFA",
+        "Debit Cards",
+        "Digital Services"
+      ],
+      "features": [
+        "Free Cheque Book",
+        "Local Funds Transfer",
+        "SMS Alerts",
+        "E-Statements"
+      ],
+      "contact_info": {}
+    },
+    {
+      "section": "Personal",
+      "product_name": [
+        "Bank Alfalah PKR Current Account",
+        "Bank Alfalah Kamyab Karobar Account",
+        "Bank Alfalah FCY Current Account"
+      ],
+      "product_type": "Current Account",
+      "description": [
+        "Built for the daily financial needs of salaried individuals and ... Learn more",
+        "Designed to cater to the complex financial needs of business ...",
+        "An account for fo US Dollar, Pound"
+      ],
+      "features": [
+        "Free Cheque Book",
+        "Local Funds Transfer",
+        "SMS Alerts",
+        "E-Statements",
+        "Orbit Reward Points"
+      ],
+      "benefits": [
+        "Effortless Transactions. Everyday Banking.",
+        "Where Business Meets Banking",
+        "Foreign Currency, Local Convenience"
+      ]
+    },
+    {
+      "section": "Personal",
+      "product_name": [
+        "Alfalah Pehchaan Account",
+        "Payroll Account"
+      ],
+      "description": [
+        "Hamari Mehnat, Hamari Pehchaan",
+        "Freelance Globally, Transact Instantly."
+      ],
+      "eligibility": [
+        "Designed For Women",
+        "For Salaried Staff"
+      ],
+      "contact_info": {}
+    },
+    {
+      "section": "Personal"
+    },
+    {
+      "section": "Personal",
+      "product_name": "Classic Current Account",
+      "description": "Everyday banking, made effortless."
+    },
+    {
+      "section": "Personal",
+      "product_name": "Asaan Digital Remittance Current Account",
+      "product_type": "Current Account",
+      "description": "Remittances made easy. Branchless, digital, zero balance, free nationwide transfers.",
+      "features": [
+        "Branchless",
+        "digital",
+        "zero balance",
+        "free nationwide transfers"
+      ],
+      "benefits": [
+        "Remittances made easy"
+      ]
+    },
+    {
+      "section": "Personal",
+      "product_name": "Alfa Account",
+      "product_type": "Digital Wallet",
+      "description": "Open your account, anytime, anywhere.."
+    },
+    {
+      "section": "Personal",
+      "product_name": "Savings Accounts",
+      "product_type": "Account"
+    },
+    {
+      "section": "Personal",
+      "product_name": [
+        "Bank Alfalah Savings Account",
+        "Bank Alfalah Kifayat Account",
+        "Royal Profit Account"
+      ],
+      "product_type": [
+        "Savings Account",
+        "Savings Account",
+        "Profit Account"
+      ],
+      "description": [
+        "Secure your future with ease – open your Bank Alfalah ...",
+        "High returns, low balance. Start saving with Kifayat today.",
+        "Enjoy premium profits on your savings. Choose Royal Profit today."
+      ]
+    },
+    {
+      "section": "Personal"
+    },
+    {
+      "section": [
+        "Personal",
+        "Business",
+        "Islamic",
+        "Premier"
+      ],
+      "product_name": [
+        "Freelancer Digital Savings Account",
+        "Care Senior Citizen Account",
+        "Corporate Payroll Savings Account"
+      ],
+      "description": [
+        "A digital-first account tailored for freelancers. Offering global receipts, flexible ...",
+        "Prioritizing your peace of mind. Open your Care Senior Citizen ...",
+        "A profit-bearing payroll account offering tiered savings growth and flexible ..."
+      ]
+    },
+    {
+      "section": "Personal",
+      "product_name": [
+        "Asaan Savings Account",
+        "Asaan Digital Remittance Savings Account",
+        "Bank Alfalah FCY Savings Account"
+      ],
+      "description": [
+        "Simple, secure, and convenient. Open your Asaan Savings Account now.",
+        "Powerful, streamlined, and tailored for recipients of remittances. This account ...",
+        "Save in the currency you trust with Bank Alfalah's Foreign ... Learn More"
+      ]
+    },
+    {
+      "product_name": null,
+      "product_type": null,
+      "description": null
+    },
+    {
+      "section": "Accounts Overview"
+    },
+    {
+      "section": "Fixed Deposit Account",
+      "product_name": [
+        "Alfa Term Deposit",
+        "Bank Alfalah Term Deposit",
+        "Care Senior Citizen Mahana Amdani Account"
+      ],
+      "description": [
+        "Secure savings with guaranteed returns.",
+        "Enjoy returns your Way; Every Week, Month, Year, or at ...",
+        "Turn your savings into monthly income."
+      ],
+      "benefits": [
+        "Digital Savings",
+        "Earn More With Every Rupee You Invest.",
+        "Ease And Safety For The Years That Matter Most",
+        "Fixed Tenure, Flexible Returns",
+        "Smart Investment. Steady Income.",
+        "Lock In Your Savings. Unlock Your Future."
+      ]
+    },
+    {
+      "section": "Personal",
+      "product_name": [
+        "Bank Alfalah Floating Term Deposit",
+        "Mahana Amdani Term Deposit Account",
+        "Bank Alfalah Foreign Currency Fixed Account",
+        "Term Deposit Request Form"
+      ],
+      "product_type": [
+        "Term Deposit",
+        "Term Deposit Account",
+        "Fixed Account",
+        "Application Form"
+      ],
+      "description": [
+        "Smart money doesn't sit still. Neither should yours.",
+        "Your savings should work as hard as you did.",
+        "Grow your savings in foreign currency"
+      ],
+      "features": [
+        "Fixed Tenure, Flexible Returns",
+        "Smart Investment. Steady Income.",
+        "Lock In Your Savings. Unlock Your Future."
+      ]
+    },
+    {
+      "section": "accounts",
+      "product_name": "Alfa",
+      "product_type": "App",
+      "description": "Your bank, always with you."
+    },
+    {
+      "section": "Debit Cards"
+    },
+    {
+      "section": "Accounts"
+    },
+    {
+      "section": "Personal"
+    },
+    {
+      "section": "Personal"
+    },
+    {
+      "section": "Digital Services"
+    },
+    {
+      "section": [
+        "Personal",
+        "Business",
+        "Islamic",
+        "Premier"
+      ],
+      "product_name": [
+        "Contact Centre",
+        "Voice Biometrics",
+        "SMS Banking & E-Statements",
+        "WhatsApp Banking Channel",
+        "Alfa",
+        "Internet Banking"
+      ],
+      "product_type": [
+        "Customer Service",
+        "Enhanced Security",
+        "Transactional Alerts",
+        "Online Channel",
+        "Alfa App"
+      ],
+      "description": [
+        "Support you can count on, 24/7.",
+        "Your voice is your secure password.",
+        "Your account, always in the know.",
+        "Experience the all-new Alfa"
+      ]
+    },
+    {
+      "section": [
+        "Personal",
+        "Business",
+        "Islamic",
+        "Premier",
+        "About",
+        "Deals & Discount",
+        "Careers",
+        "Pakistan",
+        "Branch locator",
+        "Login"
+      ],
+      "product_name": [
+        "Contact Centre",
+        "Voice Biometrics",
+        "SMS Banking & E-Statements",
+        "WhatsApp Banking Channel",
+        "Alfa",
+        "Internet Banking",
+        "Alfa Goal Based Scheme"
+      ],
+      "description": [
+        "Support you can count on, 24/7.",
+        "Your voice is your secure password.",
+        "Your account, always in the know.",
+        "Your bank is just a message away.",
+        "Your bank, always with you.",
+        "Your bank, just a QR scan away."
+      ]
+    },
+    {
+      "section": "Personal",
+      "product_name": [
+        "DFD – Digital Facilitation Desk",
+        "Goal-Based Scheme",
+        "Instant Pledge Financing",
+        "Alfa Education Fee Payments",
+        "K- Trade",
+        "Rapid"
+      ],
+      "product_type": [
+        "One-Stop Customer Service",
+        "Savings",
+        "For Depositors Seeking Instant Liquidity",
+        "Billing Services",
+        "Investments",
+        "Digital Account Opening"
+      ],
+      "description": [
+        "Digital help, right when you need it.",
+        "Save smartly, achieve your goals.",
+        "Unlock instant cash while your TDRs keep growing with Pakistan's ...",
+        "Pay fees in seconds, the smarter way.",
+        "Invest in stocks, anytime, anywhere.",
+        "From account to card, done in minutes."
+      ]
+    },
+    {
+      "section": "Accounts Overview",
+      "product_name": null,
+      "product_type": null,
+      "description": null,
+      "features": [],
+      "benefits": [],
+      "eligibility": [],
+      "requirements": [],
+      "fees_and_charges": {},
+      "profit_rates": {},
+      "limits": {},
+      "terms_and_conditions": [],
+      "contact_info": {},
+      "tables": []
+    },
+    {
+      "section": [
+        {
+          "name": "Top Navigation",
+          "items": [
+            "Personal",
+            "Business",
+            "Islamic",
+            "Premier",
+            "About",
+            "Deals & Discount",
+            "Careers",
+            "Pakistan",
+            "Branch locator",
+            "Login"
+          ]
+        },
+        {
+          "name": "Digital Payments",
+          "product_name": "Alfa QR",
+          "description": "Scan, pay, and go—cashless convenience.",
+          "urls": [
+            "Learn More >"
+          ]
+        },
+        {
+          "name": "Money Transfers",
+          "product_name": "RAAST",
+          "description": "Instant payments, anytime, anywhere.",
+          "urls": [
+            "Learn More >"
+          ]
+        },
+        {
+          "name": "Lifestyle Banking",
+          "product_name": "Digital Branch",
+          "description": "All banking services, fully digital.",
+          "urls": [
+            "Learn More >"
+          ]
+        },
+        {
+          "name": "FINANCE",
+          "product_type": "Budgeting Tool",
+          "product_name": "PFM (Personal Finance Management)",
+          "description": "Track, plan, and manage your money effortlessly.",
+          "urls": [
+            "Learn More >"
+          ]
+        },
+        {
+          "name": "FINANCE",
+          "product_type": "Tax Filing",
+          "product_name": "Befiler",
+          "description": "File your taxes, fast and easy.",
+          "urls": [
+            "Learn More >"
+          ]
+        },
+        {
+          "name": "FINANCE",
+          "product_type": "Pension Payment",
+          "product_name": "EOBI",
+          "description": "EOBI payments and contributions made digital.",
+          "urls": [
+            "Learn More >"
+          ]
+        }
+      ]
+    },
+    {},
+    {
+      "section": "Overview",
+      "product_name": "Bank Alfalah PKR Current Account",
+      "product_type": "Current Account",
+      "description": "Bank Alfalah PKR Current Account has been designed to cater to the everyday financial needs of salaried individuals & small",
+      "features": [
+        "Free Cheque Book",
+        "SMS Alerts",
+        "Local Funds Transfer",
+        "E-Statements",
+        "Orbit Rewards",
+        "Orbit Reward Points"
+      ]
+    },
+    {
+      "section": "Overview",
+      "product_name": "Alfalah Current Account",
+      "product_type": "Current Account",
+      "description": "Bank Alfalah PKR Current Account has been designed to cater to the everyday financial needs of salaried individuals & small businesses with transactional needs.",
+      "features": [
+        "Free SMS alerts service for Digital Transactions, e-Statements, and local fund transfers to any BAFL account.",
+        "Full suite of transactional waivers available.",
+        "Orbit reward points program.",
+        "Access to banking through over 1,000 branches nationwide.",
+        "Dependable features and convenient access."
+      ],
+      "benefits": [
+        "Enjoy the freedom of frequent transactions without restrictions.",
+        "Avail free SMS alerts on Digital Transactions, e-Statements, and local fund transfers to any BAFL account.",
+        "Benefit from a full suite of transactional waivers.",
+        "Earn Orbit reward points.",
+        "Enjoy seamless banking through over 1,000 branches nationwide.",
+        "Supports your everyday banking needs with reliability and ease."
+      ],
+      "eligibility": [
+        "Salaried individuals",
+        "Small businesses"
+      ],
+      "requirements": [
+        "Open an account with just PKR 1,000",
+        "Maintain a minimum monthly balance requirement of PKR 25,000/-."
+      ],
+      "terms_and_conditions": [
+        "Terms and conditions apply."
+      ],
+      "contact_info": {
+        "Address": "Head Office, B.A. Building, I.I. Chundrigar Road, Karachi-74000, Pakistan",
+        "Email": "contactus@bankalfalah.com",
+        "Phone": "+92 (21) 111 225 111"
+      }
+    },
+    {
+      "parse_error": "Expecting property name enclosed in double quotes: line 37 column 31 (char 1244)"
+    },
+    {
+      "section": "HOW TO OPEN",
+      "product_name": "Alfalah Current Account",
+      "requirements": [
+        "copies of your identity and other required documents"
+      ],
+      "contact_info": {
+        "address": "Head Office, B.A. Building, I.I. Chundrigar Road, Karachi-74000, Pakistan",
+        "email": "contactus@bankalfalah.com",
+        "phone": "+92 (21) 111 225 111"
+      }
+    },
+    {
+      "section": "Important Documents",
+      "product_name": "Alfalah Current Account",
+      "product_type": "Current Account",
+      "terms_and_conditions": [
+        "Terms & Conditions - account opening conventional",
+        "Terms & Conditions - account opening Rapid",
+        "Terms and Conditions"
+      ],
+      "fees_and_charges": {
+        "main_section_document": "Schedule of charges",
+        "footer_link": "Schedule of Charges"
+      },
+      "contact_info": {
+        "address": "Head Office, B.A. Building, I.I. Chundrigar Road, Karachi-74000, Pakistan",
+        "email": "contactus@bankalfalah.com",
+        "phone": "+92 (21) 111 225 111",
+        "general_contact_link": "Contact Us"
+      }
+    },
+    {
+      "parse_error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "section": "Personal Banking",
+      "product_name": "Alfalah Current Account",
+      "product_type": "Current Account",
+      "features": [
+        "Mobile App",
+        "24 Hour app live chat banking",
+        "Debit Card",
+        "Cheque Book",
+        "FCY Debit Card",
+        "SMS Alerts",
+        "E-Statement",
+        "Bankers Cheque"
+      ],
+      "fees_and_charges": {
+        "SMS Alerts": "PKR 250/- Per Month"
+      },
+      "terms_and_conditions": [
+        "Terms and Conditions"
+      ],
+      "contact_info": {
+        "Head Office Address": "B.A. Building, I.I. Chundrigar Road, Karachi-74000, Pakistan",
+        "Email": "contactus@bankalfalah.com",
+        "Phone": "+92 (21) 111 225 111"
+      },
+      "tables": [
+        {
+          "header": [
+            "Service",
+            "Information Available",
+            "Status/Fee",
+            "Notes"
+          ],
+          "rows": [
+            [
+              "Mobile App",
+              "?",
+              "Yes",
+              "-"
+            ],
+            [
+              "24 Hour app live chat banking",
+              "?",
+              "Yes",
+              "-"
+            ],
+            [
+              "Debit Card",
+              "?",
+              "Yes",
+              "-"
+            ],
+            [
+              "Cheque Book",
+              "?",
+              "Waived",
+              "-"
+            ],
+            [
+              "FCY Debit Card",
+              "?",
+              "No",
+              "-"
+            ],
+            [
+              "SMS Alerts",
+              "?",
+              "PKR 250/- Per Month",
+              "-"
+            ],
+            [
+              "E-Statement",
+              "?",
+              "Yes",
+              "-"
+            ],
+            [
+              "Bankers Cheque",
+              "?",
+              "Waived",
+              "-"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Overview",
+      "product_name": "Bank Alfalah Kamyab Karobar",
+      "product_type": "Current Account",
+      "description": "Bank Alfalah Kamyab Karobar Account has been designed to cater to the complex financial needs of business customers looking for transactional convenience and flexibility. With added convenience and business-centric tools, this account helps you streamline operations and expand with clarity and ease.",
+      "features": [
+        "Open an account and maintain a minimum average monthly balance of PKR 50,000 to enjoy seamless banking.",
+        "Avail free services including Debit Card issuance, SMS alerts, e-statements, and online banking.",
+        "Enjoy no limits on local fund transfers to any Bank Alfalah account."
+      ],
+      "terms_and_conditions": [
+        "Terms and conditions apply."
+      ]
+    },
+    {
+      "section": "Personal Banking > Deposit Accounts > Current Accounts",
+      "product_name": "Alfalah Kamyab Karobar",
+      "features": [
+        "Silver/Gold Debit Card",
+        "SMS alerts & e-statements",
+        "Local Fund Transfers",
+        "Online Banking Cheque Book, Banker's Cheque & Clearing Services",
+        "Orbit Reward Points"
+      ],
+      "benefits": [
+        "Waived issuance and annual fees for Silver/Gold Debit Card.",
+        "Receive free SMS alerts and free e-statements for complete account monitoring.",
+        "Transfer funds to any BAFL account without charges.",
+        "Free Online Banking Cheque Book, Banker's Cheque & Clearing Services.",
+        "Get Orbit Reward Points on eligible transactions."
+      ],
+      "requirements": [
+        "Monthly Average Balance Requirement: Maintain a monthly average balance of PKR 50,000 to enjoy exclusive free services."
+      ]
+    },
+    {
+      "section": "How To Open",
+      "requirements": [
+        "Upload copies of your identity and other required documents."
+      ],
+      "contact_info": {
+        "email": "contactus@bankalfalah.com",
+        "phone": "+92 (21) 111 225 111"
+      },
+      "tables": []
+    },
+    {
+      "section": "Important Documents",
+      "terms_and_conditions": [
+        "Terms & Conditions - account opening conventional",
+        "Terms & Conditions - account opening Rapid",
+        "Key fact statements",
+        "Schedule of charges"
+      ],
+      "contact_info": {
+        "Head Office Address": "B.A. Building, I.I. Chundrigar Road, Karachi-74000, Pakistan",
+        "Email": "contactus@bankalfalah.com",
+        "Phone": "+92 (21) 111 225 111"
+      }
+    },
+    {
+      "section": "Personal Banking > Deposit Accounts",
+      "product_name": "Alfalah Kamyab Karobar",
+      "product_type": "Current Account",
+      "features": [
+        "Mobile App",
+        "24 Hour app live chat banking",
+        "Debit Card",
+        "Cheque Book (Waived)",
+        "SMS Alerts (Free)",
+        "E-Statement",
+        "Bankers Cheque (Waived)",
+        "Profit: No",
+        "Profit Payment Frequency: -",
+        "FCY Debit Card: No"
+      ],
+      "fees_and_charges": {
+        "Account Maintenance Fee": "PKR 43/- per month"
+      },
+      "limits": {
+        "Minimum Balance for Account - to Open": "PKR 100/-",
+        "Minimum Balance for Account - to Keep": "PKR 50,000/-"
+      },
+      "tables": [
+        {
+          "header": [
+            "FEATURES",
+            "BANK ALFALAH KAMYAB KAROBAR",
+            "Select Account to Compa"
+          ],
+          "rows": [
+            [
+              "Currency",
+              "PKR",
+              "-"
+            ],
+            [
+              "Minimum Balance for Account - to Open",
+              "PKR 100/-",
+              "-"
+            ],
+            [
+              "Minimum Balance for Account - to Keep",
+              "PKR 50,000/-",
+              "-"
+            ],
+            [
+              "Account Maintenance Fee",
+              "PKR 43/- per month",
+              "-"
+            ],
+            [
+              "Profit",
+              "No",
+              "-"
+            ],
+            [
+              "Profit Payment Frequency",
+              "-",
+              "-"
+            ],
+            [
+              "Mobile App",
+              "Yes",
+              "-"
+            ],
+            [
+              "24 Hour app live chat banking",
+              "Yes",
+              "-"
+            ],
+            [
+              "Debit Card",
+              "Yes",
+              "-"
+            ],
+            [
+              "Cheque Book",
+              "Waived",
+              "-"
+            ],
+            [
+              "FCY Debit Card",
+              "No",
+              "-"
+            ],
+            [
+              "SMS Alerts",
+              "Free",
+              "-"
+            ],
+            [
+              "E-Statement",
+              "Yes",
+              "-"
+            ],
+            [
+              "Bankers Cheque",
+              "Waived",
+              "-"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "error": "The `response.text` quick accessor only works for simple (single-`Part`) text responses. This response is not simple text.Use the `result.parts` accessor or the full `result.candidates[index].content.parts` lookup instead."
+    },
+    {
+      "error": "The `response.text` quick accessor only works for simple (single-`Part`) text responses. This response is not simple text.Use the `result.parts` accessor or the full `result.candidates[index].content.parts` lookup instead."
+    },
+    {
+      "section": "Eligibility",
+      "eligibility": [
+        "Business Individuals / Self Employed / freelance professionals"
+      ],
+      "requirements": [
+        "Original Scanned valid CNIC/SNIC",
+        "Proof of source of funds/ income: Undertaking on proper business letter head. However, in case of customers, where business letter head is not available, self-declaration (of customer) for source and beneficial ownership of funds duly approved by BM/OM is required OR",
+        "Proof of source of funds/ income: Receipt of Payment against the Work, OR",
+        "Proof of source of funds/ income: For freelancers an online registration or account detail of the relevant website or portal or a statement of account or any other acceptable proof can be accepted, OR",
+        "Proof of source of funds/ income: For Partners working in a registered partnership, the partnership deed along with the Registration Certificate (with updated changes/amendments) of concerned Register will be obtained along with with the said Undertaking, OR",
+        "Proof of source of funds/ income: For Public & Private Limited Company directors who are also shareholders a disclosure of shareholder from the company secretary will suffice, OR",
+        "Proof of source of funds/ income: Any other Document evidencing Source of Fund/ Income",
+        "Registration certificate required (wherever applicable).",
+        "Certificate or proof of members (wherever applicable)"
+      ]
+    },
+    {
+      "section": "Eligibility",
+      "requirements": [
+        "dislosure of shareholder from the company secretary will suffice, OR",
+        "Any other Document evidencing Source of Fund/ Income",
+        "Registration certificate required for registered concerns, (wherever applicable).",
+        "Certificate or proof of membership of trade bodies etc. (wherever applicable)",
+        "NTN certificate if available (along with online verification).",
+        "Visit report of the customer's disclosed business, minimally covering all the aspects stipulated in the prescribed format",
+        "Rubber stamp (as per title of A/c & Letter head) of the Business required to be affixed on SSC, if required by the customer to be part of the signature.",
+        "Live Photograph",
+        "Declaration Form for Zakat exemption (for Pak Rupee Savings Account, to be submitted before 1st Shaban)"
+      ]
+    },
+    {
+      "section": "Banking Solutions",
+      "product_name": [
+        "Accounts, Alfa & Debit Cards",
+        "Credit Cards",
+        "Personal Loan",
+        "Car Finance"
+      ],
+      "description": [
+        "Open an account to unlock Pakistan's leading digital banking experience and exclusive features of Alfa and Debit Cards",
+        "Break free from all financial boundaries, get exclusive American Express Card & enjoy the highest discounts and the best deals.",
+        "Need extra funds quickly?",
+        "Book your dream car on Buy-Now, Pay-Later facility."
+      ],
+      "features": [
+        "Save and grow your wealth through deposits, mutual funds, stocks and government securities.",
+        "Finance your dream home, car, business or agricultural needs with ease.",
+        "Access our award-winning Alfa app, country's largest digital network of 24/7 CDMs, ATMs and extensive payment acceptance points.",
+        "Choice of Islamic or conventional banking designed around you.",
+        "exclusive features of Alfa and Debit Cards",
+        "exclusive American Express Card"
+      ],
+      "benefits": [
+        "Enjoy financial freedom with Pakistan's best digital banking experience.",
+        "unlock lifestyle privileges",
+        "enjoy exclusive dining discounts",
+        "global lounge accesses with all international cards' schemes, including American Express exclusively.",
+        "Bank Alfalah is where ambition finds direction and your future finds the way forward.",
+        "unlock Pakistan's leading digital banking experience",
+        "Break free from all financial boundaries",
+        "enjoy the highest discounts and the best deals."
+      ]
+    },
+    {
+      "section": "Personal",
+      "product_name": [
+        "Accounts, Alfa & Debit Cards",
+        "Credit Cards",
+        "Personal Loan",
+        "Car Finance",
+        "Home Finance",
+        "Wealth Management",
+        "Alfa Mall",
+        "Roshan Digital Account",
+        "Bank Smarter with the Alfa App"
+      ],
+      "description": [
+        "Open an account to unlock Pakistan's leading digital banking experience and exclusive features of Alfa and Debit Cards",
+        "Break free from all financial boundaries, get exclusive American Express Card & enjoy the highest discounts and the best deals.",
+        "Need extra funds quickly?",
+        "Book your dream car on Buy-Now, Pay-Later facility.",
+        "Get your dream home on Buy-Now, Pay-Later facility.",
+        "Invest in funds, securities, T-Bills & Sukuk directly linked to your account and see all your investments in one place.",
+        "Award winning E-commerce marketplace with Buy-Now, Pay-Later facility.",
+        "Overseas Pakistanis, now open FCY or PKR account in Pakistan, earn significant returns & consume your funds on your loved ones in Pakistan",
+        "Your all in one digital banking lifestyle app. Make digital transactions, investments, or apply for cards anytime, anywhere. With instant financing and secure access to a full suite of services, Alfa puts complete banking convenience in your hands."
+      ],
+      "features": [
+        "Invest digitally in mutual funds and term deposits with just a few taps.",
+        "Apply instantly for debit and credit cards without visiting a branch.",
+        "Get real-time financing solutions for quick and convenient access to funds."
+      ]
+    },
+    {
+      "section": [
+        "Personal",
+        "Business",
+        "Islamic",
+        "Premier",
+        "About",
+        "Deals & Discount",
+        "Careers",
+        "Pakistan",
+        "Branch locator",
+        "Login",
+        "Bank Smarter with the Alfa App",
+        "Features",
+        "Grab the Best Cards"
+      ],
+      "product_name": "Alfa App",
+      "description": "Your all in one digital banking lifestyle app. Make digital transactions, investments, or apply for cards anytime, anywhere. With instant financing and secure access to a full suite of services, Alfa puts complete banking convenience in your hands.",
+      "features": [
+        "Invest digitally in mutual funds and term deposits with just a few taps.",
+        "Apply instantly for debit and credit cards without visiting a branch.",
+        "Get real-time financing solutions for quick and convenient access to funds.",
+        "Manage all your banking needs (Instant money transfers via RAAST & bill payments to 4,000+ billers) in one app, built for simplicity and control."
+      ]
+    },
+    {
+      "section": [
+        "Personal",
+        "Business",
+        "Islamic",
+        "Premier",
+        "About",
+        "Deals & Discount",
+        "Careers",
+        "Pakistan",
+        "Branch locator",
+        "Login"
+      ],
+      "description": "Experience the highest discounts on top destinations, trending brands and lifestyle favorites. Get access to exclusive savings at the places everyone's talking about. Your next favorite deal is just a click away!",
+      "terms_and_conditions": [
+        "Terms and Conditions"
+      ],
+      "contact_info": {
+        "Head Office": "B.A. Building, I.I. Chundrigar Road, Karachi-74000, Pakistan",
+        "Email": "contactus@bankalfalah.com",
+        "Phone": "+92 (21) 111 225 111"
+      }
+    },
+    {
+      "section": [
+        {
+          "name": "Browser Tabs",
+          "raw_text": "ChatGPT Google Gemini Bank Alfalah Pakistan | Islamic B"
+        },
+        {
+          "name": "Navigation Bar",
+          "items": [
+            "Personal",
+            "Business",
+            "Islamic",
+            "Premier",
+            "About",
+            "Shariah",
+            "Deals & Discount",
+            "Careers",
+            "Pakistan",
+            "Branch locator",
+            "Login"
+          ],
+          "logo_text": "Bank Alfalah Islamic"
+        },
+        {
+          "name": "Hero Section",
+          "heading": "Awarded for Best Islamic Banking Businesses and Shariah Assurance",
+          "description": "Bank Alfalah Islamic Banking was established as a dedicated Islamic banking division within Bank Alfalah Limited in 2003 to offer its customers products and services that are Shari'ah compliant. The Bank has around 453 dedicated branches across 106 cities along with an Islamic banking app providing to customers' with Shari'ah compliant banking solutions. Bank Alfalah Islamic Banking comprises a team of professionals who design and structure Islamic financial solutions and ensure that they are in line with Shari'ah principles on Islamic banking and finance. These solutions are developed under the guidance of a dedicated Shari'ah Board.",
+          "call_to_action": "Open Account",
+          "mobile_app_screens": [
+            {
+              "title": "Want to open a Bank Alfalah account?",
+              "buttons": [
+                "Open an account"
+              ],
+              "links": [
+                "I already have an account"
+              ]
+            },
+            {
+              "title": "Select account type",
+              "options": [
+                "Conventional account",
+                "Islamic account"
+              ]
+            },
+            {
+              "title": "Open an account",
+              "options": [
+                "Rawaan account",
+                "Regular account",
+                "Roshan digital account"
+              ],
+              "buttons": [
+                "Continue ->"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Footer Navigation",
+          "links": [
+            "Login Alfa > More > Apply for a new Financing > Instant Auto Finance",
+            "Utility Bill Payment : Log in to Alfa > Tap on Bills & Payments > Choose bill type",
+            "Islamic Digital Account Opening : Log in to Alfa > Navigate to side menu > Tap on Open a new account > Start an application",
+            "RAAST Transfers : Log in to Alfa > Tap on Send M"
+          ]
+        },
+        {
+          "name": "Banking Solutions",
+          "heading": "Banking Solutions",
+          "products": [
+            {
+              "product_name": "Accounts, Alfa & Debit Cards",
+              "description": "Open an account to unlock Pakistan's leading digital banking experience and exclusive features of Alfa and Debit Cards.",
+              "call_to_action": "Learn More >"
+            },
+            {
+              "product_name": "Car finance",
+              "description": "The shariah compliant way to buy your dream car on convenient payment plans.",
+              "call_to_action": "Learn More >"
+            },
+            {
+              "product_name": "Home Musharakah",
+              "description": "Build your dream home on easy installments, the Shariah-compliant way.",
+              "call_to_action": "Learn More >"
+            },
+            {
+              "product_name": "Wealth Management",
+              "description": "Invest in funds & Sukuk directly linked to your account and see all your investments in one place.",
+              "call_to_action": "Learn More >"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Banking Solutions",
+      "product_name": [
+        "Accounts, Alfa & Debit Cards",
+        "Car finance",
+        "Home Musharakah",
+        "Wealth Management",
+        "Alfa Islamic BNPL",
+        "Roshan Digital Account",
+        "Islamic Business Banking"
+      ],
+      "description": [
+        "Open an account to unlock Pakistan's leading digital banking experience and exclusive features of Alfa and Debit Cards.",
+        "The shariah compliant way to buy your dream car on convenient payment plans.",
+        "Build your dream home on easy installments, the Shariah-compliant way.",
+        "Invest in funds & Sukuk directly linked to your account and see all your investments in one place.",
+        "Alfa Islamic BNPL, Pakistan's first Shariah-compliant way to Buy Now, Pay Later.",
+        "Overseas Pakistanis, now open FCY or PKR account in Pakistan, earn significant returns & consume your funds on your loved ones in Pakistan.",
+        "Shariah-compliant solutions to finance growth, simplify trade and power your business with confidence."
+      ]
+    },
+    {
+      "section": "Islamic",
+      "product_name": "Alfa Islamic",
+      "product_type": "Digital Banking Lifestyle App",
+      "description": "Bank smarter with the Alfa App Your all in one digital banking lifestyle app. Make digital transactions, investments, or apply for cards anytime, anywhere. With instant financing and secure access to a full suite of services, Alfa puts complete banking convenience in your hands.",
+      "features": [
+        "Invest digitally in islamic mutual funds and term deposits with just a few taps.",
+        "Apply instantly for debit cards without visiting a branch.",
+        "Get real-time financing solutions for quick and convenient access to funds.",
+        "Manage all your banking needs (Instant money transfers via RAAST & bill payments to 4,000+ billers) in one app, built for simplicity and control."
+      ]
+    },
+    {
+      "section": [
+        {
+          "name": "Premier Banking",
+          "product_name": "Bank Alfalah Premier",
+          "description": "Bank Alfalah Premier provides exclusive, personalized banking for high net worth individuals, offering bespoke wealth management, dedicated support, and tailored financial solutions. Clients enjoy priority service, premium privileges, zero fee cards, and smart secure payment features crafted for a lifestyle of distinction.",
+          "features": [
+            "exclusive, personalized banking for high net worth individuals",
+            "bespoke wealth management",
+            "dedicated support",
+            "tailored financial solutions",
+            "priority service",
+            "premium privileges",
+            "zero fee cards",
+            "smart secure payment features"
+          ],
+          "other": {
+            "mobile_app_prompts": [
+              "Want to open a Bank Alfalah Account?",
+              "It will take only five minutes to open your bank account.",
+              "Open an account",
+              "I already have an account",
+              "Select account type",
+              "Please choose your preferred account",
+              "Conventional account",
+              "Islamic account",
+              "Regular account",
+              "Digital account",
+              "Continue"
+            ]
+          }
+        },
+        {
+          "name": "Banking Solutions",
+          "products": [
+            {
+              "product_name": "Accounts, Alfa & Debit Card",
+              "description": "Open an account to unlock Pakistan's leading digital banking experience and exclusive features of Alfa & Debit Card",
+              "call_to_action": "Learn More"
+            },
+            {
+              "product_name": "Credit Card",
+              "description": "Break free from all financial boundaries, get exclusive American Express Card & enjoy the highest discounts and the best deals.",
+              "call_to_action": "Learn More"
+            },
+            {
+              "product_name": "Car Finance",
+              "description": "Book your dream car on Buy-Now, Pay-Later facility",
+              "call_to_action": "Learn More"
+            },
+            {
+              "product_name": "Home Finance",
+              "description": "Get your dream home on Buy-Now, Pay-Later facility",
+              "call_to_action": "Learn More"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Premier Banking",
+      "product_name": [
+        "Accounts, Alfa & Debit Card",
+        "Credit Card",
+        "Car Finance",
+        "Home Finance",
+        "Wealth Management",
+        "Airport Lounges",
+        "Islamic Premier Banking",
+        "Premier Business Banking"
+      ],
+      "description": [
+        "Open an account to unlock Pakistan's leading digital banking experience and exclusive features of Alfa & Debit Card",
+        "Break free from all financial boundaries, get exclusive American Express Card & enjoy the highest discounts and the best deals.",
+        "Book your dream car on Buy-Now, Pay-Later facility",
+        "Get your dream home on Buy-Now, Pay-Later facility",
+        "Invest in funds, securities, T-Bills & Sukuk directly linked to your account and see all your investments in one place.",
+        "Enjoy luxury travel with global lounge access.",
+        "Experience Shariah compliant Premier Banking.",
+        "Exclusive banking solutions to elevate your business to new heights",
+        "Bank Alfalah Premier is a personalized banking proposition designed for individuals who seek exclusivity, convenience, and a trusted financial partnership. With priority service, expert guidance, and lifestyle privileges, we deliver a seamless and elevated banking experience tailored to your needs."
+      ]
+    },
+    {
+      "section": "Premier Banking",
+      "product_name": "Bank Alfalah Premier",
+      "description": "Bank Alfalah Premier is a personalized banking proposition designed for individuals who seek exclusivity, convenience, and a trusted financial partnership. With priority service, expert guidance, and lifestyle privileges, we deliver a seamless and elevated banking experience tailored to your needs. Experience the comfort of our exclusive Premier Lounges, located across major cities. Whether you're here for financial matters or simply to unwind, our lounges offer a safe space with concierge-style service and personalized attention. Our suite of Premier offerings includes a range of tailored products — from high-limit current and savings accounts to globally accepted Premier cards, Digital Banking access, and Wealth Management solutions — all curated to match your financial goals and lifestyle.",
+      "features": [
+        "personalized banking proposition",
+        "exclusivity",
+        "convenience",
+        "trusted financial partnership",
+        "priority service",
+        "expert guidance",
+        "lifestyle privileges",
+        "seamless and elevated banking experience",
+        "exclusive Premier Lounges",
+        "lounges located across major cities",
+        "safe space with concierge-style service",
+        "personalized attention (in lounges)",
+        "range of tailored products",
+        "high-limit current and savings accounts",
+        "globally accepted Premier cards",
+        "Digital Banking access",
+        "Wealth Management solutions"
+      ],
+      "benefits": [
+        "tailored to your needs",
+        "comfort (in lounges)",
+        "opportunity to unwind (in lounges)",
+        "match your financial goals and lifestyle",
+        "dedicated agents will assist you personally",
+        "helping you elevate your banking experience"
+      ],
+      "contact_info": {
+        "phone": "021 111 225 226"
+      }
+    },
+    {
+      "section": "Premier Banking",
+      "product_name": "Premier Offerings",
+      "product_type": "Banking Services",
+      "description": "Our suite of Premier offerings includes a range of tailored products — from high-limit current and savings accounts to globally accepted premier cards, Digital Banking access, and Wealth Management solutions — all curated to match your financial goals and lifestyle. Have questions or ready to experience Bank Alfalah Premier? Get in touch with us today! Call 021 111 225 226 and one of our dedicated agents will assist you personally. We look forward to helping you elevate your banking experience. Experience the highest discounts on top destinations, trending brands and lifestyle favorites. Get access to exclusive savings at the places everyone's talking about. Your next favorite deal is just a click away!",
+      "features": [
+        "high-limit current and savings accounts",
+        "globally accepted premier cards",
+        "Digital Banking access",
+        "Wealth Management solutions",
+        "highest discounts on top destinations",
+        "trending brands and lifestyle favorites",
+        "exclusive savings"
+      ],
+      "benefits": [
+        "curated to match your financial goals and lifestyle",
+        "elevate your banking experience",
+        "next favorite deal is just a click away!"
+      ],
+      "contact_info": {
+        "phone": "021 111 225 226",
+        "address": "Head Office. B.A. Building, I.I. Chundrigar"
+      }
+    },
+    {
+      "description": "Log in or sign up for Facebook to connect with friends, family and people you know.",
+      "product_name": "Bank Alfalah RISING TALENT"
+    },
+    {
+      "section": "Company Profile",
+      "product_name": "Bank Alfalah Limited",
+      "description": "Bank Alfalah is one of the largest private Banks in Pakistan with a network of over 1100 branches in more than 200 cities across Pakistan with an international presence in Afghanistan, Bangladesh, Bahrain,"
+    },
+    {
+      "section": "Instagram Profile",
+      "product_name": [
+        "Government Markup Subsidy and Risk Sharing Scheme for Affordable Housing Finance",
+        "ALFA LEAD MANAGEMENT TRAINEE PROGRAM 2026"
+      ],
+      "product_type": [
+        "Affordable Housing Finance Scheme",
+        "Management Trainee Program"
+      ],
+      "description": "Bank Alfalah is one of the largest private Bank in Pakistan with a network of over 1100 branches in more than 200 cities... more",
+      "features": [
+        "Quick & Easy processing",
+        "No Partial / Early Payment Charges",
+        "No Processing Fee",
+        "Tenure Up to 20 Years"
+      ],
+      "fees_and_charges": {
+        "Processing Fee": "No",
+        "Partial / Early Payment Charges": "No"
+      },
+      "limits": {
+        "Tenure": "Up to 20 Years",
+        "Subsidy": "up to 20"
+      },
+      "contact_info": {
+        "Address": "B. A. Building I. I. Chundrigar Road, Karachi, Pakistan"
+      }
+    },
+    {},
+    {
+      "description": "Bank Alfalah largest private Bank in Pakistan with over 1100 branches.",
+      "terms_and_conditions": [
+        "© 2026 TikTok"
+      ]
+    }
+  ]
+}
