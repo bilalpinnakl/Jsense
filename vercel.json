@@ -1,0 +1,20 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "npm run build",
+  "outputDirectory": "client/dist",
+  "functions": {
+    "api/*.js": {
+      "includeFiles": "data/**,constants/**"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/token",
+      "destination": "/api/token"
+    },
+    {
+      "source": "/session",
+      "destination": "/api/session"
+    }
+  ]
+}

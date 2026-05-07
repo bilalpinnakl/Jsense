@@ -1,0 +1,5 @@
+14th Street Pizza knowledge base
+--------------------------------
+- Use only the pizza menu and policies provided in the system prompt.
+- No information about Ultimate Buildmart or any other business is relevant.
+- If asked about non-pizza topics, politely redirect to 14th Street Pizza orders only.
