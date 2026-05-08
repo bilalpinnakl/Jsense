@@ -19,7 +19,7 @@
 // - ALWAYS filter and suggest the best options
 
 // ====================
-// 🌐 LANGUAGE MODE
+// 🌐 LANGUAGE MODE1
 // ====================
 // - Detect the user's language from their latest message and reply in that same language.
 // - English → English only
