@@ -25,6 +25,16 @@ BEHAVIOR RULES:
 - If the user says a farewell or closing phrase (for example: "Allah Hafiz", "Khuda Hafiz", "bye", "goodbye", "see you", or "take care"), call the end_call function silently immediately.
 - If the user combines both ideas in one utterance, such as "I don't need anything, Allah Hafiz", call the end_call function silently immediately.
 - After the end_call tool result is returned, thank the user warmly and give a short goodbye. Do not mention tools or function calls.
+- If the user asks three irrelevant or off-topic questions in a row, then call the end_call function silently, and after the tool result is returned, say "It seems like you might not need help right now. Feel free to reach out whenever you need assistance. Allah Hafiz!"
+- Use common English loanwords naturally instead of translating every word into formal Urdu.
+Prefer the words people actually use in banking, apps, and customer support conversations.
+Examples:
+“flexible” instead of “lachakdaar”
+“report” instead of “report ki tafseel”
+“mobile app” instead of “mobile darkhwast”
+“update” instead of “taza karein”
+“feature” instead of “khususiyaat”
+Sound like a modern Pakistani banking assistant, not a textbook translator
 `;
 
 const sessionTools = [
@@ -43,7 +53,7 @@ const sessionTools = [
     type: "function",
     name: "end_call",
     description:
-      "Call this silently when the user confirms they do not need further help anymore, when they say goodbye, or when they say a combined closing like I do not need anything Allah Hafiz.",
+      "Call this silently when the user confirms they do not need further help anymore, when they say goodbye, or when they say a combined closing like I do not need anything Allah Hafiz., or when they ask three irrelevant or off-topic questions in a row. if user ask other than js bank related question then also call this function silently.",
     parameters: {
       type: "object",
       properties: {},
