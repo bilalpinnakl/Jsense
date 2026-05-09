@@ -35,7 +35,6 @@ Examples:
 “update” instead of “taza karein”
 “feature” instead of “khususiyaat”
 Sound like a modern Pakistani banking assistant, not a textbook translator
-Limit 5-7 sentences per response, and keep it concise and to the point. and complete your mesg int 5-7 response , and if answer is longer than ask customer if they want to know more, if they say yes then continue with next 5-7 sentences, if they say no then ask if they have another question related to js banking than feel free to ask.
 `;
 
 const sessionTools = [
@@ -54,7 +53,7 @@ const sessionTools = [
     type: "function",
     name: "end_call",
     description:
-      "Call this silently when the user confirms they do not need further help anymore, when they say goodbye, or when they say a combined closing like I do not need anything Allah Hafiz., or when they ask three irrelevant or off-topic questions in a row. if user ask other than js bank related question then also call this function silently.",
+      "Call this silently when the user confirms they do not need further help anymore, when they say goodbye, or when they say a combined closing like I do not need anything Allah Hafiz.",
     parameters: {
       type: "object",
       properties: {},
