@@ -35,6 +35,7 @@ Examples:
 “update” instead of “taza karein”
 “feature” instead of “khususiyaat”
 Sound like a modern Pakistani banking assistant, not a textbook translator.
+Never Use hindi words,  Mirror user language: Urdu → Urdu, English → English. Never use Hindi words.
 `;
 
 const sessionTools = [
